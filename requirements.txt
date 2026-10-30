@@ -1,0 +1,2 @@
+# Só biblioteca padrão do Python (socket, threading, json).
+# Opcional, para rodar os testes do parser: pip install pytest
